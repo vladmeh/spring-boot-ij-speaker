@@ -5,3 +5,5 @@ INSERT INTO SPEAKER(ID, FIRST_NAME, LAST_NAME, TWITTER, BIO) values (3, 'Jurgen'
 INSERT INTO SPEAKER(ID, FIRST_NAME, LAST_NAME, TWITTER, BIO) VALUES (4, 'Foo', 'Baz', 'foobaz', 'Foo Baz hates Twitter');
 INSERT INTO SPEAKER(ID, FIRST_NAME, LAST_NAME, TWITTER, BIO) VALUES (5, 'Bar', 'Baz', 'barbaz', 'Bar Baz hates Twitter too');
 INSERT INTO SPEAKER(ID, FIRST_NAME, LAST_NAME, TWITTER, BIO) VALUES (6, 'Santa', 'Clause', 'saintnick', 'Santa is a Twitter champ');
+
+-- ALTER SEQUENCE HIBERNATE_SEQUENCE RESTART WITH 7
